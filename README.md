@@ -29,8 +29,8 @@ Con este Robot, esperamos brindar a la comunidad financiera una solución confia
 
 Contributors names and contact info
 
-
-[John Kleber Quezada] (https://www.linkedin.com/in/john-kleber-quezada-huayamave-42738520/)
+John Kleber Quezada
+[@JohnQuezada] (https://www.linkedin.com/in/john-kleber-quezada-huayamave-42738520/)
 
 ## Version History
 
